@@ -13,6 +13,14 @@ Just run this under your blog folder:
 
     rake theme:install git="https://github.com/jekyllbootstrap/theme-twitter.git"
 
+If using `md` index then remove it. This theme uses an html index. You need to specify posts per page in order for the
+index to display listing of posts. Smth like :
+
+```
+paginate: 3
+```
+
+in `_config.yml`
 
 ## License
 
