@@ -103,3 +103,8 @@ ul#user_nav li.inline a {
         left:0;
     }
 }
+
+pre code {
+    background: none;
+    border:0;
+}

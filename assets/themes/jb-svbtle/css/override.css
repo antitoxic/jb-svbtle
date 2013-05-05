@@ -29,3 +29,13 @@
     }
 
 }
+article .gist a {
+    border: 0;
+}
+.gist .gist-file .gist-data {
+    font-size: 13px;
+}
+
+.highlight code {
+    /*background: #272728 !important;*/
+}
