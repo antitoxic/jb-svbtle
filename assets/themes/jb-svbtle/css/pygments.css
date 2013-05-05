@@ -169,7 +169,6 @@ p pre code, li pre code {
 .pre-code, html .gist .gist-file .gist-syntax .highlight pre, .highlight code {
     font-family: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !important;
     display: block;
-    padding: .8em;
     line-height: 1.45em;
     background: #002b36 url('../images/noise.png') top left !important;
     color: #93a1a1 !important
